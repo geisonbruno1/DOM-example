@@ -11,7 +11,7 @@
 
 Utilizando diferentes métodos para selecionar elementos no DOM:
 
- - .querySelector() para selecionar o primeiro elemento que corresponda ao seletor especificado (no caso, um elemento h1)
+ - .querySelector() para selecionar o primeiro elemento que corresponda ao seletor especificado (no caso, um elemento <h1>)
 
 - .querySelectorAll() para selecionar todos os elementos que correspondam ao seletor especificado (no caso, elementos com a classe .box)
 
@@ -19,7 +19,7 @@ Utilizando diferentes métodos para selecionar elementos no DOM:
 
   Manipulação de Conteúdo:
 
- Altera o conteúdo de texto do elemento <h1> selecionado anteriormente, mudando o textContent para 'DOM'.
+ Altera o conteúdo de texto do elemento "h1" selecionado anteriormente, mudando o textContent para 'DOM'.
 
  Além disso, utiliza document.write() para escrever o conteúdo de texto dos elementos com a classe ".box".
 
