@@ -22,4 +22,4 @@ Utilizando diferentes métodos para selecionar elementos no DOM:
 
 Em resumo, o código JavaScript está manipulando o DOM para alterar o conteúdo de um elemento <h1> e escrever o conteúdo de texto de elementos com a classe .box na página HTML.
 
->> HTML E CSS 
+ HTML E CSS 
