@@ -15,7 +15,7 @@ Utilizando diferentes métodos para selecionar elementos no DOM:
 
 - .querySelectorAll() para selecionar todos os elementos que correspondam ao seletor especificado (no caso, elementos com a classe .box)
 
- .getElementById(), .getElementsByTagName(), e .getElementsByClassName() são métodos mais antigos para selecionar elementos pelo ID, por tag e por classe, mas você pode usar .querySelector() e .querySelectorAll() em vez disso.
+-  .getElementById(), .getElementsByTagName(), e .getElementsByClassName() são métodos mais antigos para selecionar elementos pelo ID, por tag e por classe, mas você pode usar .querySelector() e .querySelectorAll() em vez disso.
 
   Manipulação de Conteúdo:
 
